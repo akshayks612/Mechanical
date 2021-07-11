@@ -6,6 +6,7 @@ Below is a list of some of the projects I worked on in CAD Design. All the CAD D
 * Angled Joint
 * Door Handle
 * Injection Molded Handle
+* LEGO CREATOR 30575-1 Train Assembly
 * Slide Joint
 * Swivel
 * Miscellaneous (Consists of 6 Miscellaneous designs)
